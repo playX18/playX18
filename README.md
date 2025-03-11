@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+Hello there! My real name is Adel, and online I am known as playXE or playX18. The story behind name change is simple: I lost my 2FA codes for recovery of my original GH at [playXE](https://github.com/playxe). All my hobby projects are now developed on my self-hosted git: [git.playxe.org](git.playxe.org) or in this GH. 
+
+- 🔭 I’m currently working on [gear](https://github.com/gear-tech/gear) and [vmkit-core](https://git.playxe.org/playXE/vmkit-core)
+- 🌱 I’m currently learning self-hosting, docker, and kubernetes
+- 👯 I’m looking to collaborate on [vmkit-core](https://git.playxe.org/playXE/vmkit-core)
+- 🤔 I’m looking for help with [vmkit-core](https://git.playxe.org/playXE/vmkit-core)
+- 💬 Ask me about anything! Or language development...
+- 📫 How to reach me:
+- - email: adel.prokurov@gmail.com
+  - telegram: @aprokurov
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Need to figure out
 <!--
 **playX18/playX18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
