@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello there! My real name is Adel, and online I am known as playXE or playX18. The story behind name change is simple: I lost my 2FA codes for recovery of my original GH at [playXE](https://github.com/playxe). All my hobby projects are now developed on my self-hosted git: [git.playxe.org](git.playxe.org) or in this GH. 
+Hello there! My real name is Adel, and online I am known as playXE or playX18. The story behind name change is simple: I lost my 2FA codes for recovery of my original GH at [playXE](https://github.com/playxe). All my hobby projects are now developed on my self-hosted git: [git.playxe.org](https://git.playxe.org) or in this GH. 
 
 - 🔭 I’m currently working on [gear](https://github.com/gear-tech/gear) and [vmkit-core](https://git.playxe.org/playXE/vmkit-core)
 - 🌱 I’m currently learning self-hosting, docker, and kubernetes
